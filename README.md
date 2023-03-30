@@ -11,7 +11,7 @@ This script is an OSINT (Open Source Intelligence) tool that allows the user to 
      Username OSINT
      Business OSINT
      Domain/URL OSINT
-     OSINT
+     reverse image OSINT
      Steganography OSINT
      OSINT dojo attack surfaces and resources
      search engine
